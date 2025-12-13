@@ -1,0 +1,229 @@
+# Company & Product Context
+
+> This file is the **source of truth** for business context.
+> Claude Code reads this to understand the product, users, and goals.
+> Keep it updated and accurate.
+
+---
+
+## Company Overview
+
+**Company Name:** [Your Company Name]
+**Industry:** [Industry/Sector]
+**Stage:** [Startup/Growth/Enterprise]
+**Founded:** [Year]
+
+### Mission
+[One sentence mission statement]
+
+### Vision
+[One sentence vision statement]
+
+---
+
+## Product Overview
+
+**Product Name:** [Product Name]
+**Type:** [Web App / Mobile App / SaaS / Platform / API / etc.]
+**Status:** [Concept / MVP / Beta / Production / Mature]
+
+### One-Liner
+[Single sentence describing what the product does]
+
+### Problem Statement
+[What problem does this product solve? For whom?]
+
+### Solution
+[How does the product solve this problem?]
+
+### Value Proposition
+[Why should users choose this over alternatives?]
+
+---
+
+## Target Users
+
+### Primary Persona: [Name]
+- **Role:** [Job title or user type]
+- **Goals:** [What they want to achieve]
+- **Pain Points:** [Current frustrations]
+- **Tech Comfort:** [Low/Medium/High]
+
+### Secondary Persona: [Name]
+- **Role:** [Job title or user type]
+- **Goals:** [What they want to achieve]
+- **Pain Points:** [Current frustrations]
+- **Tech Comfort:** [Low/Medium/High]
+
+---
+
+## Core Workflows
+
+### Workflow 1: [Name]
+1. User does X
+2. System responds with Y
+3. User achieves Z
+
+### Workflow 2: [Name]
+1. User does X
+2. System responds with Y
+3. User achieves Z
+
+### Workflow 3: [Name]
+1. User does X
+2. System responds with Y
+3. User achieves Z
+
+---
+
+## Success Metrics
+
+### Business Metrics
+- [ ] [Metric 1]: [Target]
+- [ ] [Metric 2]: [Target]
+
+### Product Metrics
+- [ ] [Metric 1]: [Target]
+- [ ] [Metric 2]: [Target]
+
+### User Metrics
+- [ ] [Metric 1]: [Target]
+- [ ] [Metric 2]: [Target]
+
+---
+
+## MVP Scope
+
+### Must Have (P0)
+- [ ] [Feature 1]
+- [ ] [Feature 2]
+- [ ] [Feature 3]
+
+### Should Have (P1)
+- [ ] [Feature 1]
+- [ ] [Feature 2]
+
+### Could Have (P2)
+- [ ] [Feature 1]
+- [ ] [Feature 2]
+
+### Won't Have (This Version)
+- [ ] [Feature 1]
+- [ ] [Feature 2]
+
+---
+
+## Competitive Landscape
+
+### Direct Competitors
+1. **[Competitor 1]** — [Brief description, key differentiator]
+2. **[Competitor 2]** — [Brief description, key differentiator]
+
+### Indirect Competitors
+1. **[Competitor 1]** — [Brief description]
+
+### Our Differentiation
+- [Key differentiator 1]
+- [Key differentiator 2]
+- [Key differentiator 3]
+
+---
+
+## Technical Constraints
+
+### Platform Requirements
+- [ ] Web (Desktop)
+- [ ] Web (Mobile)
+- [ ] iOS Native
+- [ ] Android Native
+- [ ] Desktop App
+- [ ] API Only
+
+### Browser Support
+- [ ] Chrome (last 2 versions)
+- [ ] Firefox (last 2 versions)
+- [ ] Safari (last 2 versions)
+- [ ] Edge (last 2 versions)
+
+### Performance Requirements
+- Page load: [Target]
+- API response: [Target]
+- Uptime: [Target]
+
+### Security Requirements
+- [ ] Authentication required
+- [ ] Data encryption at rest
+- [ ] Data encryption in transit
+- [ ] GDPR compliance
+- [ ] SOC2 compliance
+- [ ] Other: [Specify]
+
+---
+
+## Brand Guidelines
+
+### Voice & Tone
+- [Describe the brand voice: Professional? Friendly? Technical? Casual?]
+
+### Key Messages
+1. [Message 1]
+2. [Message 2]
+3. [Message 3]
+
+### Colors (if known)
+- Primary: [Color code]
+- Secondary: [Color code]
+- Accent: [Color code]
+
+### Typography (if known)
+- Headings: [Font name]
+- Body: [Font name]
+
+---
+
+## Team & Stakeholders
+
+### Core Team
+- **Product:** [Name/Role]
+- **Engineering:** [Name/Role]
+- **Design:** [Name/Role]
+
+### Key Stakeholders
+- [Name] — [Role] — [What they care about]
+
+---
+
+## Timeline & Milestones
+
+### Key Dates
+- [ ] [Date]: [Milestone]
+- [ ] [Date]: [Milestone]
+- [ ] [Date]: [Milestone]
+
+---
+
+## Open Questions
+
+> Questions that need answers before implementation:
+
+1. [ ] [Question 1]
+2. [ ] [Question 2]
+3. [ ] [Question 3]
+
+---
+
+## Additional Context
+
+### Industry-Specific Considerations
+[Any domain-specific knowledge Claude should know]
+
+### Regulatory Considerations
+[Any compliance or regulatory requirements]
+
+### Integration Requirements
+[External systems this product must integrate with]
+
+---
+
+*Last updated: [DATE]*
+*Owner: [Name]*

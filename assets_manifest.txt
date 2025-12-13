@@ -1,0 +1,244 @@
+# Assets Manifest
+
+> This file indexes all assets available in the repository.
+> Claude Code uses this to understand what resources exist for implementation.
+> Update this file when adding or removing assets.
+
+---
+
+## Overview
+
+**Total Assets:** [Count]
+**Last Indexed:** [Date]
+**Index Status:** [Complete / Partial / Needs Update]
+
+---
+
+## Product Requirements
+
+### PRDs & Specs
+| File | Path | Description | Status |
+|------|------|-------------|--------|
+| [Name] | `/docs/prd.md` | Main product requirements | [Draft/Final] |
+| [Name] | `/docs/specs/` | Technical specifications | [Draft/Final] |
+
+### User Stories
+| ID | Title | Path | Priority |
+|----|-------|------|----------|
+| US-001 | [Title] | `/docs/stories/us-001.md` | P0 |
+| US-002 | [Title] | `/docs/stories/us-002.md` | P1 |
+
+### Acceptance Criteria
+| Feature | Path | Status |
+|---------|------|--------|
+| [Feature] | `/docs/acceptance/` | [Draft/Final] |
+
+---
+
+## UX/UI Assets
+
+### Wireframes
+| Screen | Path | Format | Status |
+|--------|------|--------|--------|
+| [Screen Name] | `/design/wireframes/` | [Figma/PNG/PDF] | [Draft/Final] |
+
+### Mockups
+| Screen | Path | Format | Status |
+|--------|------|--------|--------|
+| [Screen Name] | `/design/mockups/` | [Figma/PNG/PDF] | [Draft/Final] |
+
+### Prototypes
+| Flow | Path/URL | Tool | Status |
+|------|----------|------|--------|
+| [Flow Name] | `/design/prototypes/` | [Figma/Principle] | [Draft/Final] |
+
+### User Flows
+| Flow | Path | Format |
+|------|------|--------|
+| [Flow Name] | `/design/flows/` | [Mermaid/PNG/PDF] |
+
+### Information Architecture
+| Document | Path | Status |
+|----------|------|--------|
+| Site Map | `/design/ia/sitemap.md` | [Draft/Final] |
+| Navigation | `/design/ia/nav.md` | [Draft/Final] |
+
+---
+
+## Brand Assets
+
+### Logos
+| Variant | Path | Format | Dimensions |
+|---------|------|--------|------------|
+| Primary | `/brand/logos/logo-primary.svg` | SVG | Vector |
+| Icon | `/brand/logos/logo-icon.svg` | SVG | Vector |
+| Wordmark | `/brand/logos/logo-wordmark.svg` | SVG | Vector |
+
+### Colors
+| Name | Hex | Usage | Path |
+|------|-----|-------|------|
+| Primary | #[HEX] | Main brand color | `/brand/colors.json` |
+| Secondary | #[HEX] | Accent color | `/brand/colors.json` |
+
+### Typography
+| Font | Weight | Usage | Path |
+|------|--------|-------|------|
+| [Font Name] | 400, 700 | Body text | `/brand/fonts/` |
+| [Font Name] | 600, 800 | Headings | `/brand/fonts/` |
+
+### Icons
+| Set | Path | Format | Count |
+|-----|------|--------|-------|
+| [Icon Set] | `/brand/icons/` | SVG | [N] |
+
+### Illustrations
+| Name | Path | Format | Usage |
+|------|------|--------|-------|
+| [Name] | `/brand/illustrations/` | SVG/PNG | [Context] |
+
+---
+
+## Media Assets
+
+### Photos
+| Name | Path | Dimensions | Usage |
+|------|------|------------|-------|
+| [Name] | `/assets/photos/` | [WxH] | [Context] |
+
+### Videos
+| Name | Path | Duration | Format | Usage |
+|------|------|----------|--------|-------|
+| [Name] | `/assets/videos/` | [MM:SS] | MP4 | [Context] |
+
+### Screenshots
+| Screen | Path | Dimensions | Date |
+|--------|------|------------|------|
+| [Name] | `/assets/screenshots/` | [WxH] | [Date] |
+
+---
+
+## Technical Assets
+
+### API Documentation
+| API | Path | Format | Status |
+|-----|------|--------|--------|
+| [API Name] | `/docs/api/` | OpenAPI/Markdown | [Draft/Final] |
+
+### Database Schemas
+| Schema | Path | Format |
+|--------|------|--------|
+| [Name] | `/docs/schemas/` | SQL/Prisma/JSON |
+
+### Architecture Diagrams
+| Diagram | Path | Format |
+|---------|------|--------|
+| System Overview | `/docs/architecture/` | Mermaid/PNG |
+| Data Flow | `/docs/architecture/` | Mermaid/PNG |
+
+### Environment Configs
+| Env | Path | Purpose |
+|-----|------|---------|
+| Development | `/.env.example` | Local dev setup |
+| CI | `/.env.ci` | CI/CD pipeline |
+
+---
+
+## Data Assets
+
+### Sample Data
+| Dataset | Path | Format | Records |
+|---------|------|--------|---------|
+| [Name] | `/data/samples/` | JSON/CSV | [N] |
+
+### Fixtures
+| Fixture | Path | Purpose |
+|---------|------|---------|
+| [Name] | `/tests/fixtures/` | [Testing context] |
+
+### Seeds
+| Seed | Path | Purpose |
+|------|------|---------|
+| [Name] | `/data/seeds/` | [DB seeding] |
+
+---
+
+## Documentation
+
+### README Files
+| File | Path | Purpose |
+|------|------|---------|
+| Main | `/README.md` | Project overview |
+| Contributing | `/CONTRIBUTING.md` | Contribution guide |
+
+### Guides
+| Guide | Path | Audience |
+|-------|------|----------|
+| [Name] | `/docs/guides/` | [Developer/User] |
+
+### Runbooks
+| Runbook | Path | Purpose |
+|---------|------|---------|
+| [Name] | `/docs/runbooks/` | [Ops procedure] |
+
+---
+
+## External Resources
+
+### Design Tools
+| Tool | URL | Access |
+|------|-----|--------|
+| Figma | [URL] | [Public/Team] |
+| Miro | [URL] | [Public/Team] |
+
+### Documentation
+| Doc | URL | Purpose |
+|-----|-----|---------|
+| [Name] | [URL] | [Purpose] |
+
+### Integrations
+| Service | Docs URL | Purpose |
+|---------|----------|---------|
+| [Service] | [URL] | [Integration purpose] |
+
+---
+
+## Asset Gaps (Missing)
+
+> Assets that are needed but don't exist yet:
+
+### High Priority
+- [ ] [Asset description] — **Blocks:** [What it blocks]
+- [ ] [Asset description] — **Blocks:** [What it blocks]
+
+### Medium Priority
+- [ ] [Asset description]
+- [ ] [Asset description]
+
+### Low Priority
+- [ ] [Asset description]
+
+---
+
+## Indexing Notes
+
+### How to Add Assets
+1. Add the file to the appropriate directory
+2. Update this manifest with file details
+3. Commit both the asset and manifest update
+
+### Naming Conventions
+- Use kebab-case: `my-asset-name.png`
+- Include dimensions for images: `hero-1920x1080.jpg`
+- Include version for iterative designs: `mockup-v2.fig`
+
+### Supported Formats
+- **Images:** PNG, JPG, SVG, WebP
+- **Videos:** MP4, WebM
+- **Documents:** MD, PDF, DOCX
+- **Data:** JSON, CSV, YAML
+- **Design:** Figma (linked), Sketch
+
+---
+
+*Last indexed: [DATE]*
+*Indexed by: [Name/Claude Code]*
