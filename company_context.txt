@@ -1,229 +1,385 @@
-# Company & Product Context
+# Company & Product Context — GameChangers Labs
 
 > This file is the **source of truth** for business context.
 > Claude Code reads this to understand the product, users, and goals.
-> Keep it updated and accurate.
+> Last updated: 2025-12-14
 
 ---
 
 ## Company Overview
 
-**Company Name:** [Your Company Name]
-**Industry:** [Industry/Sector]
-**Stage:** [Startup/Growth/Enterprise]
-**Founded:** [Year]
+**Company Name:** GameChangers Labs (also "Game Changer Labs")
+**Type:** Technology Implementation Studio
+**Stage:** Growth (Operating since 2022 in current form)
+**Founded:** 2017 (early work), 2022 (studio model)
 
 ### Mission
-[One sentence mission statement]
+Start with the problem, not the technology — research, build, and implement technology that ships.
 
 ### Vision
-[One sentence vision statement]
+Become the trusted technology partner for companies navigating complex technical transformations across multiple domains.
+
+### Tagline
+"See The Whole Board"
+
+### Key Positioning
+- **NOT an AI agency** — a technology studio that works across multiple domains
+- AI is one tool among many
+- Operators, not observers
+- Ship products, not decks
+
+---
+
+## Geographic Presence
+
+| Location | Lead | Focus |
+|----------|------|-------|
+| Saudi Arabia | Omar Isaac (CEO) | Vision 2030 initiatives |
+| Beijing, China | Carlos (COO) | China market, project delivery |
+| Detroit, USA | Norvell (CTO) | Technical architecture |
+| London, UK | Yixian (Design) | Visual design, UX |
 
 ---
 
 ## Product Overview
 
-**Product Name:** [Product Name]
-**Type:** [Web App / Mobile App / SaaS / Platform / API / etc.]
-**Status:** [Concept / MVP / Beta / Production / Mature]
+**Product Type:** Technology Implementation Studio / Service Business
+**Primary Output:** Shipped technology products for clients
+**Status:** Production (multiple case studies completed)
 
 ### One-Liner
-[Single sentence describing what the product does]
+Technology implementation studio that turns research into shipped products across AI, spatial computing, neurotech, and product development.
 
 ### Problem Statement
-[What problem does this product solve? For whom?]
+70-88% of digital transformations fail. Most failures happen because:
+- Wrong problem — Technology chosen before constraint understood
+- Wrong approach — AI treated as magic, not engineering
+- Wrong scope — Ambition without path to execution
+- Wrong finish line — Pilots that never become products
 
 ### Solution
-[How does the product solve this problem?]
+1. Define the problem precisely
+2. Determine if technology solves it
+3. Build only what's needed
+4. Ship working products, not decks
 
 ### Value Proposition
-[Why should users choose this over alternatives?]
+- Start with problem, not technology
+- Multi-domain expertise (not just AI)
+- Exits and operational experience behind them
+- Global presence
+- Ship products, not decks
 
 ---
 
 ## Target Users
 
-### Primary Persona: [Name]
-- **Role:** [Job title or user type]
-- **Goals:** [What they want to achieve]
-- **Pain Points:** [Current frustrations]
-- **Tech Comfort:** [Low/Medium/High]
+### Primary Persona: Enterprise Technology Leader
+- **Role:** CTO, VP Engineering, Head of Innovation
+- **Goals:** Successfully implement complex technology transformations
+- **Pain Points:** Failed transformations, pilots that never ship, technology chosen before problem defined
+- **Tech Comfort:** High
+- **Budget:** Enterprise ($100K+ engagements)
 
-### Secondary Persona: [Name]
-- **Role:** [Job title or user type]
-- **Goals:** [What they want to achieve]
-- **Pain Points:** [Current frustrations]
-- **Tech Comfort:** [Low/Medium/High]
+### Secondary Persona: Startup Founder / Product Leader
+- **Role:** Founder, CPO, Product Director
+- **Goals:** Build new products or pivot existing ones
+- **Pain Points:** Need technical execution capacity, want to validate before full build
+- **Tech Comfort:** Medium-High
+- **Budget:** Mid-market ($50K-$200K)
+
+### Tertiary Persona: Creative Industry Executive
+- **Role:** Label executive, Artist manager, Brand lead
+- **Goals:** Differentiated fan/customer experiences
+- **Pain Points:** Commoditized digital touchpoints, need interactive experiences
+- **Tech Comfort:** Medium
+- **Budget:** Project-based
 
 ---
 
 ## Core Workflows
 
-### Workflow 1: [Name]
-1. User does X
-2. System responds with Y
-3. User achieves Z
+### Workflow 1: Enterprise AI Implementation
+1. Client has data/knowledge management problem
+2. GameChangers researches, designs RAG/LLM architecture
+3. Build production system with evaluation frameworks
+4. Deploy to client's workflow tools
+5. Measure outcomes against defined success criteria
 
-### Workflow 2: [Name]
-1. User does X
-2. System responds with Y
-3. User achieves Z
+### Workflow 2: Spatial Computing Experience
+1. Client wants interactive/immersive experience
+2. GameChangers translates creative vision to technical spec
+3. Build VR/AR/Fortnite experience
+4. Deploy with analytics
+5. Measure engagement
 
-### Workflow 3: [Name]
-1. User does X
-2. System responds with Y
-3. User achieves Z
+### Workflow 3: Product Development / Pivot
+1. Client has product opportunity or pivot need
+2. Market research and analysis
+3. Build working prototype (not wireframes)
+4. Go-to-market framework
+5. Test with real users
+
+---
+
+## Service Lines (Technologies)
+
+### 1. Artificial Intelligence
+- RAG (Retrieval-Augmented Generation) architectures
+- Custom model fine-tuning
+- LLM integrations with business workflows
+- Production infrastructure: vector DBs, embeddings, evaluation, deployment
+- Focus: Systems that ship to production
+
+### 2. Spatial Computing
+- VR experiences
+- AR applications
+- Real-time 3D environments
+- Fortnite/UEFN builds
+- Training simulations
+- Spatial interfaces for complex data
+
+### 3. Neurotech
+- Software that makes hardware useful
+- Brain-computer interface integrations
+- Data visualization layers
+- Practitioner dashboards
+- SDK development
+
+### 4. Product Development
+- Market research and analysis
+- Technical architecture
+- Working prototypes
+- Go-to-market frameworks
+- End-to-end deployment
+
+---
+
+## Case Studies (Proof Points)
+
+### 1. BrainV Technology (Neurotech)
+- **Problem:** EEG hardware generating unusable data for spa practitioners
+- **Solution:** Software layer translating raw EEG to actionable wellness metrics
+- **Outcome:** Platform operational in premium spas, international expansion underway
+
+### 2. Chinese Energy Company (Enterprise AI)
+- **Problem:** BD teams drowning in research across scattered documents
+- **Solution:** RAG system with natural language queries, source attribution
+- **Outcome:** 60% reduction in research-to-discovery time
+
+### 3. Beauty Product Company (Product Development)
+- **Problem:** Physical product company exploring SAAS pivot
+- **Solution:** Market analysis + working prototype (not wireframes)
+- **Outcome:** Testing SAAS model with real customers, data-driven pivot decision
+
+### 4. Grammy-Winning Artists (Gaming/Spatial)
+- **Problem:** Commoditized music releases, need differentiated fan experiences
+- **Solution:** Custom Fortnite experiences built around artist identities
+- **Outcome:** Multiple projects shipped, millions of players reached
+
+---
+
+## Team
+
+### Core Team
+
+**Omar Isaac — CEO**
+- Location: Saudi Arabia
+- Background: Former WPP, managed accounts exceeding $1B total value
+- Education: Kellogg MBA
+- Focus: Studio operations, Vision 2030 initiatives
+
+**Carlos — COO**
+- Location: Beijing
+- Background: Founded Sidekicks AI (raised $1M+, acquired), Former Cisco
+- Education: Dual MBA (Kellogg + Peking University Guanghua)
+- Recognition: Award-winning VR artist (Adobe, Frank Lloyd Wright Institute)
+- Other: Musician with 2M+ plays, VR Master's from UAL
+
+**Norvell — CTO**
+- Location: Detroit
+- Background: Engineering at General Dynamics and Cisco
+- Focus: Technical architecture, defense-grade systems thinking
+
+**Yixian — Head of Design**
+- Location: London
+- Education: University of the Arts London
+- Focus: Visual design, UX, brand systems
+
+### Advisors
+
+**Professor Jiangyong Lu**
+- Peking University Guanghua School of Management
+- Research: Strategic decision-making, game theory
+
+**Ajay Koshy**
+- $300M+ in career sales
+- India market entry expertise
+
+**Yasser Shaaban**
+- AI voice technology specialist
+- Former Microsoft, AWS; Currently at Humain
 
 ---
 
 ## Success Metrics
 
 ### Business Metrics
-- [ ] [Metric 1]: [Target]
-- [ ] [Metric 2]: [Target]
+- [ ] Revenue from completed engagements
+- [ ] Client retention / repeat business
+- [ ] Average engagement size
 
 ### Product Metrics
-- [ ] [Metric 1]: [Target]
-- [ ] [Metric 2]: [Target]
+- [ ] Projects shipped (not pilots — shipped)
+- [ ] Measurable outcomes delivered per case study
 
-### User Metrics
-- [ ] [Metric 1]: [Target]
-- [ ] [Metric 2]: [Target]
-
----
-
-## MVP Scope
-
-### Must Have (P0)
-- [ ] [Feature 1]
-- [ ] [Feature 2]
-- [ ] [Feature 3]
-
-### Should Have (P1)
-- [ ] [Feature 1]
-- [ ] [Feature 2]
-
-### Could Have (P2)
-- [ ] [Feature 1]
-- [ ] [Feature 2]
-
-### Won't Have (This Version)
-- [ ] [Feature 1]
-- [ ] [Feature 2]
+### User Metrics (for client products)
+- [ ] Defined per engagement based on client goals
 
 ---
 
-## Competitive Landscape
+## Process
 
-### Direct Competitors
-1. **[Competitor 1]** — [Brief description, key differentiator]
-2. **[Competitor 2]** — [Brief description, key differentiator]
+### Step 1: Conversation
+- Real conversation, not sales call
+- Understand what you're trying to do and what's in the way
+- Ask questions until confident about success definition
 
-### Indirect Competitors
-1. **[Competitor 1]** — [Brief description]
+### Step 2: Research
+- Study before building
+- Market dynamics, technical constraints
+- What's been tried, where pitfalls are
+- Often reshapes original brief
 
-### Our Differentiation
-- [Key differentiator 1]
-- [Key differentiator 2]
-- [Key differentiator 3]
+### Step 3: Delivery
+- Ship working products, not decks
+- Functional technology in real world
+- Stay engaged through deployment
+- Measure outcomes against defined goals
 
 ---
 
-## Technical Constraints
+## Market Context (Verified Statistics)
 
-### Platform Requirements
-- [ ] Web (Desktop)
-- [ ] Web (Mobile)
-- [ ] iOS Native
-- [ ] Android Native
-- [ ] Desktop App
-- [ ] API Only
+### Digital Transformation Failure
+- 70% fail to meet objectives (BCG, McKinsey)
+- 35% reach their goals (BCG, 850+ companies)
 
-### Browser Support
-- [ ] Chrome (last 2 versions)
-- [ ] Firefox (last 2 versions)
-- [ ] Safari (last 2 versions)
-- [ ] Edge (last 2 versions)
+### AI Project Failure
+- 80% fail, 2x rate of non-AI tech projects (RAND)
+- 85% fail (Gartner)
+- 70% fail due to data quality/integration (McKinsey 2023)
 
-### Performance Requirements
-- Page load: [Target]
-- API response: [Target]
-- Uptime: [Target]
+### Business Transformation Failure
+- 88% fail to achieve original ambitions (Bain 2024)
+- 66% end in partial/total failure (Standish Group, 50K projects)
 
-### Security Requirements
-- [ ] Authentication required
-- [ ] Data encryption at rest
-- [ ] Data encryption in transit
-- [ ] GDPR compliance
-- [ ] SOC2 compliance
-- [ ] Other: [Specify]
+### AI Value Realization
+- Only 6% report meaningful bottom-line AI impact (McKinsey 2025)
+- 74% struggle to achieve/scale AI value (BCG)
+- Only 1% view GenAI strategies as mature (McKinsey)
 
 ---
 
 ## Brand Guidelines
 
 ### Voice & Tone
-- [Describe the brand voice: Professional? Friendly? Technical? Casual?]
+- Confident but not arrogant
+- No comparisons to other agencies
+- No claims without verified sources
+- Merit-based throughout
+- Avoid buzzwords ("game-changing," "revolutionary")
+- Speak plainly about what they do
+- **Exclusive, methodical, extremely modern**
 
 ### Key Messages
-1. [Message 1]
-2. [Message 2]
-3. [Message 3]
+1. "See The Whole Board"
+2. "We start with the problem, not the technology"
+3. "Research turned into shipped products"
+4. "Operators, not observers"
 
-### Colors (if known)
-- Primary: [Color code]
-- Secondary: [Color code]
-- Accent: [Color code]
+### Visual Aesthetic (Intent)
+- Complex shapes → simple as you scroll
+- Visual metaphor: Taking complex technical chaos, distilling into working products
+- Modern, exclusive, methodical
+- Chess/strategic board visualization
 
-### Typography (if known)
-- Headings: [Font name]
-- Body: [Font name]
+### Colors
+- [ ] Primary: TBD
+- [ ] Secondary: TBD
+- [ ] Accent: TBD
 
----
-
-## Team & Stakeholders
-
-### Core Team
-- **Product:** [Name/Role]
-- **Engineering:** [Name/Role]
-- **Design:** [Name/Role]
-
-### Key Stakeholders
-- [Name] — [Role] — [What they care about]
+### Typography
+- [ ] Headings: TBD
+- [ ] Body: TBD
 
 ---
 
-## Timeline & Milestones
+## Competitive Differentiation
 
-### Key Dates
-- [ ] [Date]: [Milestone]
-- [ ] [Date]: [Milestone]
-- [ ] [Date]: [Milestone]
+### What They Are
+- Technology implementation studio
+- Operators, not observers
+- People who've built and sold companies
+- Ship products to millions of users
+- Managed portfolios worth over $1B
+
+### What They Are NOT
+- Not an AI agency
+- Not a dev shop
+- Not a consultancy
+- Not advisory-only
+
+---
+
+## Company History
+
+### 2017-2019 — Early Work
+- Built VR concert experiences and web3 games
+- Learned to ship in uncertain territory
+
+### 2020-2022 — Sidekicks AI
+- Founded holographic AI companion
+- Raised over $1M
+- Built from concept through launch
+- Acquired (full cycle: fundraising → product → exit)
+
+### 2022-Present — Studio Model
+- Focused operation
+- Work spans neurotech, enterprise AI, beauty SAAS, gaming
+- Domains vary; approach doesn't
 
 ---
 
 ## Open Questions
 
-> Questions that need answers before implementation:
+> Questions that may need answers during implementation:
 
-1. [ ] [Question 1]
-2. [ ] [Question 2]
-3. [ ] [Question 3]
+1. [x] What is the product? — Website/deck for GameChangers Labs
+2. [ ] Primary platform: Web only? Print materials?
+3. [ ] Specific leads/conversion goals for website?
+4. [ ] Any existing brand assets (logos, colors, fonts)?
+5. [ ] Any Figma/design files for aesthetic reference?
 
 ---
 
 ## Additional Context
 
 ### Industry-Specific Considerations
-[Any domain-specific knowledge Claude should know]
+- Enterprise sales cycles are long
+- Trust and credibility are paramount
+- Case studies are primary proof points
+- Geographic diversity is a strength (Saudi Vision 2030, China market)
 
 ### Regulatory Considerations
-[Any compliance or regulatory requirements]
+- Client data handling (enterprise clients)
+- International operations
 
 ### Integration Requirements
-[External systems this product must integrate with]
+- None for company website
+- Client projects may have various integrations
 
 ---
 
-*Last updated: [DATE]*
-*Owner: [Name]*
+*Last updated: 2025-12-14*
+*Owner: Claude Code*

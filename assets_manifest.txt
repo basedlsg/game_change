@@ -1,16 +1,16 @@
-# Assets Manifest
+# Assets Manifest — GameChangers Labs
 
 > This file indexes all assets available in the repository.
 > Claude Code uses this to understand what resources exist for implementation.
-> Update this file when adding or removing assets.
+> Last indexed: 2025-12-14
 
 ---
 
 ## Overview
 
-**Total Assets:** [Count]
-**Last Indexed:** [Date]
-**Index Status:** [Complete / Partial / Needs Update]
+**Total Assets:** 3 documentation files + 14 Claude Code command files
+**Last Indexed:** 2025-12-14
+**Index Status:** Partial — Awaiting brand/design assets
 
 ---
 
@@ -19,19 +19,30 @@
 ### PRDs & Specs
 | File | Path | Description | Status |
 |------|------|-------------|--------|
-| [Name] | `/docs/prd.md` | Main product requirements | [Draft/Final] |
-| [Name] | `/docs/specs/` | Technical specifications | [Draft/Final] |
+| Company Context | `/company_context.txt` | Full business context, team, case studies | **Complete** |
+| Reference Doc | (provided in conversation) | Comprehensive reference document | Complete |
+
+### Content Elements (from Reference Doc)
+| Element | Status | Notes |
+|---------|--------|-------|
+| Company overview | Complete | Name, mission, positioning |
+| Team bios | Complete | 4 core team + 3 advisors |
+| Case studies | Complete | 4 detailed case studies |
+| Service lines | Complete | AI, Spatial, Neurotech, Product Dev |
+| Market statistics | Complete | Verified failure rates with sources |
+| Process description | Complete | Conversation → Research → Delivery |
+| Brand voice guidelines | Complete | Tone, messaging, what to avoid |
+| Deck structure | Complete | 9-slide structure defined |
 
 ### User Stories
-| ID | Title | Path | Priority |
-|----|-------|------|----------|
-| US-001 | [Title] | `/docs/stories/us-001.md` | P0 |
-| US-002 | [Title] | `/docs/stories/us-002.md` | P1 |
-
-### Acceptance Criteria
-| Feature | Path | Status |
-|---------|------|--------|
-| [Feature] | `/docs/acceptance/` | [Draft/Final] |
+| ID | Title | Priority | Status |
+|----|-------|----------|--------|
+| US-001 | Visitor understands what GCL does in <10 seconds | P0 | Defined |
+| US-002 | Visitor sees proof of execution (case studies) | P0 | Defined |
+| US-003 | Visitor understands team credibility | P0 | Defined |
+| US-004 | Visitor can initiate contact/conversation | P0 | Defined |
+| US-005 | Visitor understands service lines | P1 | Defined |
+| US-006 | Visitor sees geographic presence | P2 | Defined |
 
 ---
 
@@ -40,80 +51,76 @@
 ### Wireframes
 | Screen | Path | Format | Status |
 |--------|------|--------|--------|
-| [Screen Name] | `/design/wireframes/` | [Figma/PNG/PDF] | [Draft/Final] |
+| None | — | — | **MISSING** |
 
 ### Mockups
 | Screen | Path | Format | Status |
 |--------|------|--------|--------|
-| [Screen Name] | `/design/mockups/` | [Figma/PNG/PDF] | [Draft/Final] |
+| None | — | — | **MISSING** |
 
 ### Prototypes
 | Flow | Path/URL | Tool | Status |
 |------|----------|------|--------|
-| [Flow Name] | `/design/prototypes/` | [Figma/Principle] | [Draft/Final] |
+| None | — | — | **MISSING** |
 
-### User Flows
-| Flow | Path | Format |
-|------|------|--------|
-| [Flow Name] | `/design/flows/` | [Mermaid/PNG/PDF] |
-
-### Information Architecture
-| Document | Path | Status |
-|----------|------|--------|
-| Site Map | `/design/ia/sitemap.md` | [Draft/Final] |
-| Navigation | `/design/ia/nav.md` | [Draft/Final] |
+### Design Direction (from Reference Doc)
+| Element | Description | Status |
+|---------|-------------|--------|
+| Visual metaphor | Complex shapes → simple on scroll | Defined (not designed) |
+| Mood | Modern, exclusive, methodical | Defined |
+| Concept | Chess/strategic board ("See The Whole Board") | Defined |
 
 ---
 
 ## Brand Assets
 
 ### Logos
-| Variant | Path | Format | Dimensions |
-|---------|------|--------|------------|
-| Primary | `/brand/logos/logo-primary.svg` | SVG | Vector |
-| Icon | `/brand/logos/logo-icon.svg` | SVG | Vector |
-| Wordmark | `/brand/logos/logo-wordmark.svg` | SVG | Vector |
+| Variant | Path | Format | Status |
+|---------|------|--------|--------|
+| Primary | — | — | **MISSING** |
+| Icon | — | — | **MISSING** |
+| Wordmark | — | — | **MISSING** |
 
 ### Colors
-| Name | Hex | Usage | Path |
-|------|-----|-------|------|
-| Primary | #[HEX] | Main brand color | `/brand/colors.json` |
-| Secondary | #[HEX] | Accent color | `/brand/colors.json` |
+| Name | Hex | Usage | Status |
+|------|-----|-------|--------|
+| Primary | TBD | Main brand | **MISSING** |
+| Secondary | TBD | Accent | **MISSING** |
 
 ### Typography
-| Font | Weight | Usage | Path |
-|------|--------|-------|------|
-| [Font Name] | 400, 700 | Body text | `/brand/fonts/` |
-| [Font Name] | 600, 800 | Headings | `/brand/fonts/` |
+| Font | Weight | Usage | Status |
+|------|--------|-------|--------|
+| Headings | TBD | — | **MISSING** |
+| Body | TBD | — | **MISSING** |
 
 ### Icons
-| Set | Path | Format | Count |
-|-----|------|--------|-------|
-| [Icon Set] | `/brand/icons/` | SVG | [N] |
-
-### Illustrations
-| Name | Path | Format | Usage |
-|------|------|--------|-------|
-| [Name] | `/brand/illustrations/` | SVG/PNG | [Context] |
+| Set | Path | Format | Status |
+|-----|------|--------|--------|
+| None | — | — | **MISSING** |
 
 ---
 
 ## Media Assets
 
 ### Photos
-| Name | Path | Dimensions | Usage |
-|------|------|------------|-------|
-| [Name] | `/assets/photos/` | [WxH] | [Context] |
+| Name | Path | Dimensions | Status |
+|------|------|------------|--------|
+| Team photos | — | — | **MISSING** |
+| Office/location photos | — | — | **MISSING** |
+| Case study visuals | — | — | **MISSING** |
 
 ### Videos
-| Name | Path | Duration | Format | Usage |
-|------|------|----------|--------|-------|
-| [Name] | `/assets/videos/` | [MM:SS] | MP4 | [Context] |
+| Name | Path | Duration | Status |
+|------|------|----------|--------|
+| Case study demos | — | — | **MISSING** |
+| Fortnite experience footage | — | — | **MISSING** |
+| VR/AR demos | — | — | **MISSING** |
 
 ### Screenshots
-| Screen | Path | Dimensions | Date |
-|--------|------|------------|------|
-| [Name] | `/assets/screenshots/` | [WxH] | [Date] |
+| Screen | Path | Dimensions | Status |
+|--------|------|------------|--------|
+| BrainV dashboard | — | — | **MISSING** |
+| RAG interface | — | — | **MISSING** (likely confidential) |
 
 ---
 
@@ -122,123 +129,129 @@
 ### API Documentation
 | API | Path | Format | Status |
 |-----|------|--------|--------|
-| [API Name] | `/docs/api/` | OpenAPI/Markdown | [Draft/Final] |
+| N/A | — | — | Not applicable (marketing site) |
 
 ### Database Schemas
-| Schema | Path | Format |
-|--------|------|--------|
-| [Name] | `/docs/schemas/` | SQL/Prisma/JSON |
+| Schema | Path | Format | Status |
+|--------|------|--------|--------|
+| N/A | — | — | Not applicable |
 
 ### Architecture Diagrams
-| Diagram | Path | Format |
-|---------|------|--------|
-| System Overview | `/docs/architecture/` | Mermaid/PNG |
-| Data Flow | `/docs/architecture/` | Mermaid/PNG |
+| Diagram | Path | Format | Status |
+|---------|------|--------|--------|
+| N/A | — | — | Not applicable |
 
 ### Environment Configs
-| Env | Path | Purpose |
-|-----|------|---------|
-| Development | `/.env.example` | Local dev setup |
-| CI | `/.env.ci` | CI/CD pipeline |
-
----
-
-## Data Assets
-
-### Sample Data
-| Dataset | Path | Format | Records |
-|---------|------|--------|---------|
-| [Name] | `/data/samples/` | JSON/CSV | [N] |
-
-### Fixtures
-| Fixture | Path | Purpose |
-|---------|------|---------|
-| [Name] | `/tests/fixtures/` | [Testing context] |
-
-### Seeds
-| Seed | Path | Purpose |
-|------|------|---------|
-| [Name] | `/data/seeds/` | [DB seeding] |
+| Env | Path | Purpose | Status |
+|-----|------|---------|--------|
+| None | — | — | **MISSING** (will create) |
 
 ---
 
 ## Documentation
 
 ### README Files
-| File | Path | Purpose |
-|------|------|---------|
-| Main | `/README.md` | Project overview |
-| Contributing | `/CONTRIBUTING.md` | Contribution guide |
+| File | Path | Purpose | Status |
+|------|------|---------|--------|
+| Main README | `/README.md` | Project overview | **MISSING** |
+| CLAUDE.md | `/CLAUDE.md` | Claude Code guide | Present |
 
 ### Guides
-| Guide | Path | Audience |
-|-------|------|----------|
-| [Name] | `/docs/guides/` | [Developer/User] |
-
-### Runbooks
-| Runbook | Path | Purpose |
-|---------|------|---------|
-| [Name] | `/docs/runbooks/` | [Ops procedure] |
+| Guide | Path | Audience | Status |
+|-------|------|----------|--------|
+| Company Context | `/company_context.txt` | Claude Code | Present |
 
 ---
 
 ## External Resources
 
 ### Design Tools
-| Tool | URL | Access |
-|------|-----|--------|
-| Figma | [URL] | [Public/Team] |
-| Miro | [URL] | [Public/Team] |
+| Tool | URL | Access | Status |
+|------|-----|--------|--------|
+| Figma | TBD | — | **MISSING** |
 
-### Documentation
-| Doc | URL | Purpose |
-|-----|-----|---------|
-| [Name] | [URL] | [Purpose] |
+### Reference Sites (Aesthetic Inspiration)
+| Site | URL | Notes |
+|------|-----|-------|
+| TBD | — | Need aesthetic references |
 
 ### Integrations
-| Service | Docs URL | Purpose |
-|---------|----------|---------|
-| [Service] | [URL] | [Integration purpose] |
+| Service | Purpose | Status |
+|---------|---------|--------|
+| Contact form | Lead capture | TBD |
+| Analytics | Traffic/engagement | TBD |
+| CMS | Content management | TBD |
 
 ---
 
-## Asset Gaps (Missing)
+## Asset Gaps (Missing) — CRITICAL
 
-> Assets that are needed but don't exist yet:
+### High Priority (Blocks Design)
+- [ ] **Logo files** — Blocks all visual design
+- [ ] **Color palette** — Blocks all styling
+- [ ] **Typography choice** — Blocks all text styling
+- [ ] **Team headshots** — Blocks team section
+- [ ] **Visual aesthetic reference** — Blocks design direction
 
-### High Priority
-- [ ] [Asset description] — **Blocks:** [What it blocks]
-- [ ] [Asset description] — **Blocks:** [What it blocks]
+### Medium Priority (Blocks Polish)
+- [ ] Case study visuals/screenshots
+- [ ] Geographic presence imagery
+- [ ] Service line icons/illustrations
 
-### Medium Priority
-- [ ] [Asset description]
-- [ ] [Asset description]
+### Low Priority (Nice to Have)
+- [ ] Video content
+- [ ] Animation specs
+- [ ] Print materials
 
-### Low Priority
-- [ ] [Asset description]
+---
+
+## Content Inventory (Ready to Use)
+
+### Copy Blocks Available
+| Section | Content | Word Count | Status |
+|---------|---------|------------|--------|
+| Tagline | "See The Whole Board" | 4 | Ready |
+| Hero message | Multiple options | — | Ready |
+| Problem framing | 4 failure types | ~50 | Ready |
+| Solution framing | 4 steps | ~30 | Ready |
+| Company overview | Full description | ~200 | Ready |
+| Service lines | 4 detailed services | ~400 | Ready |
+| Case studies | 4 complete | ~600 | Ready |
+| Team bios | 4 team + 3 advisors | ~400 | Ready |
+| Process | 3 steps detailed | ~150 | Ready |
+| Statistics | Verified with sources | ~100 | Ready |
+
+### Key Messages (Ready)
+1. "See The Whole Board"
+2. "We start with the problem, not the technology"
+3. "Research turned into shipped products"
+4. "Operators, not observers"
+5. "Ship working products, not decks"
 
 ---
 
 ## Indexing Notes
 
-### How to Add Assets
-1. Add the file to the appropriate directory
-2. Update this manifest with file details
-3. Commit both the asset and manifest update
+### What We Have
+- Complete business/product context
+- All copy content ready
+- Team information complete
+- Case studies detailed
+- Brand voice defined
+- Visual direction described (not designed)
 
-### Naming Conventions
-- Use kebab-case: `my-asset-name.png`
-- Include dimensions for images: `hero-1920x1080.jpg`
-- Include version for iterative designs: `mockup-v2.fig`
+### What We Need
+- Visual design assets (logo, colors, fonts)
+- Photography (team, case studies)
+- Aesthetic reference (Figma, examples)
 
-### Supported Formats
-- **Images:** PNG, JPG, SVG, WebP
-- **Videos:** MP4, WebM
-- **Documents:** MD, PDF, DOCX
-- **Data:** JSON, CSV, YAML
-- **Design:** Figma (linked), Sketch
+### Next Steps
+1. Request brand assets from client
+2. Define tech stack for website
+3. Begin implementation with placeholder visuals
+4. Swap placeholders when assets arrive
 
 ---
 
-*Last indexed: [DATE]*
-*Indexed by: [Name/Claude Code]*
+*Last indexed: 2025-12-14*
+*Indexed by: Claude Code*
